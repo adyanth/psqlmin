@@ -1,5 +1,11 @@
 # PSQLMIN: Postgres + Webmin
 
+<div align="center">
+  <a href="https://github.com/adyanth/psqlmin">
+    <img src="https://raw.githubusercontent.com/adyanth/psqlmin/refs/heads/main/images/psqlmin.png" alt="Logo" height="256">
+  </a>
+</div>
+
 [![ci](https://github.com/adyanth/psqlmin/actions/workflows/docker.yaml/badge.svg)](https://github.com/adyanth/psqlmin/actions/workflows/docker.yaml)
 [![GitHub license](https://img.shields.io/github/license/adyanth/psqlmin?color=brightgreen)](https://github.com/adyanth/psqlmin/blob/main/LICENSE)
 [![GitHub forks](https://img.shields.io/github/forks/adyanth/psqlmin)](https://github.com/adyanth/cloudflare-operator/network)
